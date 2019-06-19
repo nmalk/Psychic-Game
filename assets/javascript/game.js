@@ -14,11 +14,11 @@ function wrongGuesses (userGuess){
 }
 
 function reStartGame () {
-     winCount =0;
- lossCount =0;
- guessesLeft = 10;
- userGuess ="";
- computerGuess =letterOptions[Math.floor(Math.random()*letterOptions.length)];
+    winCount =0;
+    lossCount =0;
+    guessesLeft = 10;
+    userGuess ="";
+    computerGuess =letterOptions[Math.floor(Math.random()*letterOptions.length)];
 }
 reStartGame();
 
@@ -26,9 +26,6 @@ document.onkeyup = function() {
     var newUserGuess =  String.fromCharCode(event.keyCode).toLowerCase();
        userGuess = userGuess + newUserGuess;
         wrongGuesses (userGuess);
-
- 
-
 
     if (newUserGuess == computerGuess) {
         winCount++;

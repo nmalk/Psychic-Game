@@ -4,24 +4,29 @@ body, html {
 }
 
 body {
-    background: url("../images/backgroundpsychic.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: url("../images/backgroundpsychic.png") center cover no-repeat;
 }
 
 
 .main-container .container {
     position: absolute;
     bottom: 0;
-    background: rgb (0,0,0);
-    background: rgba (0,0,0, 0.5);
     color: #272626;
-    max-width: 500px;
+    max-width: 550px;
     padding: 20px;
     margin:20px;
     margin-left: 250px;
 
 }
 
+.display-4,.lead {
+    color: white;
+}
 
+.jumbotron {
+    background-color:transparent !important; 
+}
+
+.hr {
+    background: white;
+}
