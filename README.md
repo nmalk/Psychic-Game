@@ -1,5 +1,6 @@
 # Psychic-Game
 
+* [Try it out](https://nmalk.github.io/Psychic-Game/)
 
 ## Guess what letter I'm thinking of
 
@@ -17,3 +18,6 @@ It is a guessing game that randomly picks a letter, and the user has to guess wh
 
 6. When the player loses, increase the Losses counter and restart the game without a page refresh (just like when the user wins).
 
+## Technologies used
+
+Javascript, Bootstrap
