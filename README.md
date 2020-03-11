@@ -20,4 +20,4 @@ It is a guessing game that randomly picks a letter, and the user has to guess wh
 
 ## Technologies used
 
-Javascript, Bootstrap
+HTML, CSS, Javascript, Bootstrap
