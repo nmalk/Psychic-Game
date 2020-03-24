@@ -1,6 +1,6 @@
 # Psychic-Game
 
-* ![Homepage image](/assets/images/Homepage.png)
+![Homepage image](/assets/images/Homepage.png)
 
 * [Try it out](https://nmalk.github.io/Psychic-Game/)
 
