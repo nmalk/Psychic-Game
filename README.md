@@ -1,5 +1,7 @@
 # Psychic-Game
 
+* ![Homepage image](/assets/images/Homepage.png)
+
 * [Try it out](https://nmalk.github.io/Psychic-Game/)
 
 ## Guess what letter I'm thinking of
